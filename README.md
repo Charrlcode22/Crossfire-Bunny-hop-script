@@ -6,5 +6,6 @@ How  to use?
 
 1. Download the autohotkey v2.0: https://www.autohotkey.com/v2/
 2. Download the ahk file and run as Administrator
-3. You can reload, pause, and exit the macro in your icons
-4. Enjoy and Have fun
+3. just hold Space + Ctrl and it will do your bunny hop perfectly
+4. You can reload, pause, and exit the macro in your icons
+5. Enjoy 
